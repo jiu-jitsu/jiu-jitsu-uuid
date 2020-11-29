@@ -3,4 +3,4 @@
  *
  */
 
-module.exports = require(`./sources/uuid`)
+module.exports = require("./sources/uuid")
